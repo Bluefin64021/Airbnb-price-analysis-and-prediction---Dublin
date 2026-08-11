@@ -1,8 +1,8 @@
 # Airbnb Price Analysis and Prediction – Dublin
 
-Predicting Airbnb nightly prices in Dublin using Python. This project walks through the full data-analysis workflow — from cleaning raw data to building a simple machine-learning model — on real Airbnb listings.
+Predicting Airbnb nightly prices in Dublin using Python. This project walks through the full data-analysis workflow from cleaning raw data to building a simple machine-learning model on real Airbnb listings.
 
-> Course project for **Programming for Analytics (B9BA200)**, MSc, Dublin Business School.
+> Course project for **Programming for Analytics, MSc Dublin Business School.
 
 ## Overview
 
@@ -16,7 +16,7 @@ Airbnb hosts set their own prices, so prices vary a lot from one listing to anot
 ## Dataset
 
 - **Source:** [Inside Airbnb](https://insideairbnb.com/get-the-data) – Dublin listings
-- **Format:** CSV (~6,966 listings, 90 columns)
+- **Format:** CSV (6,966 listings, 90 columns)
 - **Target:** `price` (nightly price)
 - **Key features used:** room type, neighbourhood, accommodates (guests), bedrooms, number of reviews, review score, minimum nights, availability
 
@@ -62,7 +62,7 @@ pip install pandas numpy matplotlib scikit-learn
 
 ## Author
 
-**[Your Name]** — MSc student, Dublin Business School
+**Govind Suresh Kumar** — MSc student, Dublin Business School
 
 ## Acknowledgement
 
